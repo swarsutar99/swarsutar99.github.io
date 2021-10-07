@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+body{
+    background: linear-gradient(45deg,royalblue,tomato);
+}
+h1{color: whitesmoke;}
+a{color: whitesmoke;
+    text-decoration: none;
+    margin-right:30px;
+}
+table{
+    
+    width: 100%;
+    margin-top: 30px;
+    
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+#top{background-color: black;
+    height: 70px;
+}
+
+#SF{
+    
+    text-align: center;
+    width: 40%;
+    float: left;
+    line-height: 70px;
+    height: 70px;
+
+}
+#menue{
+   
+    text-align: center;
+    width: 60%;
+    float: right;
+    line-height: 70px;
+    height: 70px;
+
+}
+#abc{
+
+    margin-top: 70px;
+    
+    
+}
+#ab{
+    background: linear-gradient(45deg,red,black);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 50%;
+    width: 40%;
+    margin:15px auto;
+
+}
+#pizza{
+    margin-top: 20px;
+
+}
+#bc{
+    background: linear-gradient(45deg,red,black);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 50%;
+    width: 40%;
+    margin:15px auto;
+
+}
+
+#cd{
+    background: linear-gradient(45deg,red,black);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 50%;
+    width: 40%;
+    margin:15px auto;
+
+}
+#ef{
+    background: linear-gradient(45deg,red,black);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 50%;
+    width: 40%;
+    margin:15px auto;
+
+}
+
+#bottom{
+    background-color: black;
+    padding: 50px;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+#logo{
+    margin: 5px;
+    padding: 5px;
+}
